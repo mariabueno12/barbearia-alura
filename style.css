@@ -2,6 +2,6 @@ body{
     text-align: center;
 }
 
-.cor{
-    color:aqua;
+em,strong{
+    color: crimson;
 }
