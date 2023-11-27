@@ -6,3 +6,7 @@ background-color:#cccccc;
 em,strong{
     color: crimson;
 }
+
+.banner{
+    width: 100%;
+}
